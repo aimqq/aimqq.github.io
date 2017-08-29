@@ -11,7 +11,7 @@ github_repo: "https://github.com/aimqq/aimqq.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "A man can be destory but not defeated."
 sidebar-avatar: about/img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
