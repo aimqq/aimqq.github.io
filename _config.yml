@@ -12,7 +12,7 @@ github_repo: "https://github.com/aimqq/aimqq.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -95,7 +95,7 @@ service-worker: true
 friends: [
     {
         title: "简书·dboy",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com/u/ba9ab2b2ced3"
     },{
         title: "Google",
         href: "https://Google.com"
