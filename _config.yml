@@ -3,7 +3,7 @@ title: DBoy Blog
 SEOTitle: DBoy的博客 | DBoy Blog
 header-img: img/post-bg-desk.jpg
 email: dboy_sl@163.com
-description: "If they can do it, why not us"
+description: "If they can do it, why not us!"
 keyword: "dboy, DBoy Blog, DBoy的博客, aimqq, Android, Java, 物联网"
 url: "http://aimqq.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/aimqq/aimqq.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
